@@ -1,4 +1,3 @@
-import image from './images/lazy.png';
 import audioPlayer from './js/audio';
 import backGround from './js/backGround';
 import enterName from './js/enterName';
@@ -22,7 +21,6 @@ import dateAndTime from './js/time';
 //   document.body.appendChild(myImage);
 // }
 
-// render();
 audioPlayer();
 backGround();
 enterName();
